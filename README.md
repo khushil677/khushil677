@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Khushil</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A Passionate Data Analyst From Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushil677&label=Profile%20views&color=0e75b6&style=flat" alt="khushil677" /> </p>
 
