@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushil677&label=Profile%20views&color=0e75b6&style=flat" alt="khushil677" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Luxury Hotel Dashboard**
 
-- 🌱 I’m currently learning **Python, numPy, panda**
+- 🌱 I’m currently learning **Tableau**
 
-- 💬 Ask me about **Html, css, c++, C, SQL, NOsql, MongoDB**
+- 💬 Ask me about **Excel, PowerBI, Python SQL, NOsql**
 
 - 📫 How to reach me **khushilvarsani7@gmail.com**
 
